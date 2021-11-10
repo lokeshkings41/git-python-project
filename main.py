@@ -4,6 +4,6 @@ def palindrome(s):
 	return False
 s = input()
 if palindrome(s) == True:
-	print("Plaindrome")
+	print(" is a Plaindrome")
 else:
 	print("Not Plaindrome")
